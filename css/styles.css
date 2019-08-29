@@ -1,0 +1,14 @@
+.ticketDetails {
+  text-align: center;
+}
+
+body {
+  color: white;
+  font-family: Tahoma;
+  background-image: url("../images/felix-mooneeram-evlkOfkQ5rE-unsplash.jpg");
+  background-size: cover;
+}
+
+h2 {
+  color: #cccc00;
+}
